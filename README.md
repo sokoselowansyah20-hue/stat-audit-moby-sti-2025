@@ -17,12 +17,11 @@ Audit ini bertujuan untuk mengukur metrik kesehatan dan perilaku repositori *ope
 
 | Anggota Tim | Peran | Fokus Tanggung Jawab |
 |---|---|---|
-| **Zaida Alfaiz Sofyan** (1519625047) | Data Engineer | Ekstraksi API, pembersihan data (*cleaning*), EDA, visualisasi awal |
-| **Ihsan Nurrahman Syauqy** (1519625037) | Estimation Analyst | Kalkulasi MLE (Poisson/Bernoulli), konjugasi Beta Posterior, visualisasi *likelihood* |
-| **Kevin Christman Lumban Tobing** (1519625025) | Inference Analyst | Perhitungan rentang ketidakpastian (*Confidence & Credible Intervals*) |
-| **Safani Nuraini** (1519625008) | Hypothesis Analyst | Uji hipotesis Z-Test, penetapan H0/H1, interpretasi keputusan *p-value* |
-| **Fernando Iskandar Yusuf** (1519625042) | Computation Analyst | Prediksi dengan Simulasi Monte Carlo, optimasi Bloom Filter, MCMC |
-
+| **Soko Selowansyah** (1519625063) | Data Engineer | Ekstraksi API, pembersihan data (*cleaning*), EDA, visualisasi awal |
+| 
+| 
+| 
+| 
 ---
 
 ## 🎯 Fokus Pertanyaan Riset (RQ)
