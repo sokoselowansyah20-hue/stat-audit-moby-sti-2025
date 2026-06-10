@@ -56,6 +56,7 @@ The main objectives of this audit are:
 
 ## Project Structure
 
+```text
 stat-audit-pandas-sti-2025/
 
 ├── data/
@@ -79,7 +80,6 @@ stat-audit-pandas-sti-2025/
 │   └── simulation.py
 │
 ├── presentation/
-│   ├── Statistical_Health_Report.pdf
 │   ├── Presentation_Slides.pptx
 │   └── video_link.txt
 │
@@ -91,6 +91,7 @@ stat-audit-pandas-sti-2025/
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
+```
 
 
 ### Folder Description
