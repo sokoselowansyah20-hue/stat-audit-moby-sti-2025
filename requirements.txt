@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+requests
+jupyter
+notebook
+statsmodels
+pymc
+tqdm
