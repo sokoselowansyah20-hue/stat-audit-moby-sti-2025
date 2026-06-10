@@ -96,18 +96,19 @@ stat-audit-pandas-sti-2025/
 
 ### Folder Description
 
-| Folder/File      | Description                                       |
-| ---------------- | ------------------------------------------------- |
-| data/raw         | Raw data collected from GitHub API                |
-| data/clean       | Cleaned datasets ready for analysis               |
-| notebooks        | Jupyter notebooks containing statistical analyses |
-| src              | Python source code and utility modules            |
-| presentation     | Final report, slides, and presentation materials  |
-| README.md        | Project documentation                             |
-| AI_USAGE_LOG.md  | Documentation of AI-assisted development          |
-| requirements.txt | Required Python dependencies                      |
-| .gitignore       | Git ignore configuration                          |
-| LICENSE          | Repository license                                |
+| Folder/File      | Description                                               |
+| ---------------- | --------------------------------------------------------- |
+| data/raw         | Raw data collected from GitHub API                        |
+| data/clean       | Cleaned datasets ready for analysis                       |
+| notebooks        | Jupyter notebooks containing statistical analyses         |
+| src              | Python source code and utility modules                    |
+| presentation     | Presentation slides and video materials                   |
+| report           | Statistical Health Report and final written documentation |
+| README.md        | Project documentation                                     |
+| AI_USAGE_LOG.md  | Documentation of AI-assisted development                  |
+| requirements.txt | Required Python dependencies                              |
+| .gitignore       | Git ignore configuration                                  |
+| LICENSE          | Repository license                                        |
 
 ## Data Source
 
