@@ -56,10 +56,55 @@ The main objectives of this audit are:
 
 ## Project Structure
 
-* **data/** : raw and cleaned datasets
-* **notebooks/** : statistical analysis notebooks
-* **src/** : supporting Python modules
-* **presentation/** : final report and presentation materials
+```text
+stat-audit-pandas-sti-2025/
+
+├── data/
+│   ├── raw/
+│   └── clean/
+│
+├── notebooks/
+│   ├── 01_data_collection.ipynb
+│   ├── 02_eda.ipynb
+│   ├── 03_parameter_estimation.ipynb
+│   ├── 04_confidence_interval.ipynb
+│   ├── 05_hypothesis_testing.ipynb
+│   └── 06_simulation.ipynb
+│
+├── src/
+│   ├── github_api.py
+│   ├── preprocessing.py
+│   ├── estimation.py
+│   ├── ci.py
+│   ├── hypothesis.py
+│   └── simulation.py
+│
+├── presentation/
+│   ├── Statistical_Health_Report.pdf
+│   ├── Presentation_Slides.pptx
+│   └── video_link.txt
+│
+├── README.md
+├── AI_USAGE_LOG.md
+├── requirements.txt
+├── .gitignore
+└── LICENSE
+```
+
+### Folder Description
+
+| Folder/File      | Description                                       |
+| ---------------- | ------------------------------------------------- |
+| data/raw         | Raw data collected from GitHub API                |
+| data/clean       | Cleaned datasets ready for analysis               |
+| notebooks        | Jupyter notebooks containing statistical analyses |
+| src              | Python source code and utility modules            |
+| presentation     | Final report, slides, and presentation materials  |
+| README.md        | Project documentation                             |
+| AI_USAGE_LOG.md  | Documentation of AI-assisted development          |
+| requirements.txt | Required Python dependencies                      |
+| .gitignore       | Git ignore configuration                          |
+| LICENSE          | Repository license                                |
 
 ## Data Source
 
@@ -72,13 +117,13 @@ All data used in this project were collected from the GitHub REST API and includ
 
 ## Team Members
 
-| Name           | NIM | Role                                         |
-| -------------- | --- | -------------------------------------------- |
-| Soko Selowansyah | 1519625063| Team Leader & Data Collection                |
-| Nama Anggota 2 | NIM | Exploratory Data Analysis (EDA)              |
-| Nama Anggota 3 | NIM | Parameter Estimation & Confidence Interval   |
-| Nama Anggota 4 | NIM | Hypothesis Testing                           |
-| Nama Anggota 5 | NIM | Simulation (Monte Carlo, Bloom Filter, MCMC) |
+| No | Name           | NIM | Role                                         |
+| -- | -------------- | --- | -------------------------------------------- |
+| 1  | Soko Selowansyah | 1519625063 | Team Leader & Data Collection                |
+| 2  | Nama Anggota 2 | NIM | Exploratory Data Analysis (EDA)              |
+| 3  | Nama Anggota 3 | NIM | Parameter Estimation & Confidence Interval   |
+| 4  | Nama Anggota 4 | NIM | Hypothesis Testing                           |
+| 5  | Nama Anggota 5 | NIM | Simulation (Monte Carlo, Bloom Filter, MCMC) |
 
 ## AI Usage
 
