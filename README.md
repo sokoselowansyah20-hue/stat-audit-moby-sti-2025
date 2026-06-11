@@ -121,7 +121,7 @@ All data used in this project were collected from the GitHub REST API and includ
 
 ## Team Members
 
-| Member | Name           | NIM | Role                                         |
+| No | Name           | NIM | Role                                         |
 | -- | -------------- | --- | -------------------------------------------- |
 | 1  | Soko Selowansyah | 1519625063 | Team Leader & Data Collection                |
 | 2  | Nama Anggota 2 | NIM | Exploratory Data Analysis (EDA)              |
