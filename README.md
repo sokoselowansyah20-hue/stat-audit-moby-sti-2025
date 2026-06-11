@@ -121,13 +121,13 @@ All data used in this project were collected from the GitHub REST API and includ
 
 ## Team Members
 
-| No | Name           | NIM | Role                                         |
+| Member | Name           | NIM | Role                                         |
 | -- | -------------- | --- | -------------------------------------------- |
-| 1  | Soko Selowansyah | 1519625063 | Team Leader & Data Collection                |
-| 2  | Nama Anggota 2 | NIM | Exploratory Data Analysis (EDA)              |
-| 3  | Nama Anggota 3 | NIM | Parameter Estimation & Confidence Interval   |
-| 4  | Nama Anggota 4 | NIM | Hypothesis Testing                           |
-| 5  | Nama Anggota 5 | NIM | Simulation (Monte Carlo, Bloom Filter, MCMC) |
+| A  | Soko Selowansyah | 1519625063 | Team Leader & Data Collection                |
+| B  | Nama Anggota 2 | NIM | Exploratory Data Analysis (EDA)              |
+| C  | Nama Anggota 3 | NIM | Parameter Estimation & Confidence Interval   |
+| D  | Nama Anggota 4 | NIM | Hypothesis Testing                           |
+| E  | Nama Anggota 5 | NIM | Simulation (Monte Carlo, Bloom Filter, MCMC) |
 
 ## AI Usage
 
